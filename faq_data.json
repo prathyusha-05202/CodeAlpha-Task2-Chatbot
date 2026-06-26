@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of AI that learns from data."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular programming language."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "NLP stands for Natural Language Processing."
+  }
+]
